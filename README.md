@@ -44,3 +44,24 @@ Below is a visualization of the complete Transformer model, showing the encoder-
 
 ![Transformer Architecture](https://pylessons.com/media/Tutorials/transformers/transformer-attention/model-min.png)
 
+
+---
+
+### ✅ Model Test Results
+
+* The model achieved an accuracy of **58%** on the dataset.
+* Below are some sample translation results:
+
+```
+Input sentence: كم الساعة الآن؟
+Output sentence: What time is it?
+
+Input sentence: أنا جائع.
+Output sentence: I'm hungry.
+
+Input sentence: أريد كوباً من الماء.
+Output sentence: I want a glass of water.
+
+Input sentence: هل تتحدث الإنجليزية؟
+Output sentence: Do you speak English?
+```
